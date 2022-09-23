@@ -13,9 +13,13 @@
   "author": "zubair-shaikh",
   "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@mdx-js/react": "^1.6.22",
+    "@theme-ui/presets": "^0.14.7",
     "next": "^12.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "theme-ui": "^0.14.7"
   },
   "dev-dependencies": {}
 }
