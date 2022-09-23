@@ -16,10 +16,16 @@
     "@emotion/react": "^11.10.4",
     "@mdx-js/react": "^1.6.22",
     "@theme-ui/presets": "^0.14.7",
+    "@types/react": "^18.0.21",
+    "dotenv-load": "^2.0.1",
     "next": "^12.3.0",
+    "next-env": "^1.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "theme-ui": "^0.14.7"
+    "theme-ui": "^0.14.7",
+    "typescript": "^4.8.3"
   },
-  "dev-dependencies": {}
+  "devDependencies": {
+    "@types/node": "18.7.18"
+  }
 }
